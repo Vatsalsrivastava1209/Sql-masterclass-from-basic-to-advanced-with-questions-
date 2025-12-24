@@ -1,7 +1,5 @@
 # SQL Masterclass: From Basic to Advanced with Practice Questions
 
-![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/SQLite370.svg) <!-- Replace with a better SQL image if needed -->
-
 **Complete SQL Tutorial & Masterclass – Beginner to Advanced Level with Hands-On Exercises and Interview Questions (Free GitHub Resource)**
 
 This **SQL Masterclass** covers everything from fundamental concepts to advanced topics, complete with explanations, examples, and challenging practice questions. Perfect for beginners starting from scratch, intermediates brushing up skills, and advanced learners preparing for interviews.
